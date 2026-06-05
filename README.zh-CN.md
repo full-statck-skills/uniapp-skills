@@ -6,34 +6,28 @@
 
 [![GitHub](https://img.shields.io/badge/github-full--statck--skills%2Funiapp-skills-green.svg)](https://github.com/full-statck-skills/uniapp-skills)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
-[![Agent Skills](https://img.shields.io/badge/Agent%20Skills-Compatible-purple.svg)](https://agentskills.io)
+[![Agent Skills](https://img.shields.io/badge/Agent%20Skills-兼容-purple.svg)](https://agentskills.io)
 
-English | [简体中文](./README.zh-CN.md)
-
-[Introduction](#-introduction) · [Install](#-install) · [Skills](#-skills) · [Supported Agents](#-supported-agents) · [Ecosystem](#-ecosystem)
+[English](./README.md) | 简体中文
 
 </div>
 
 ---
 
-## 📖 Introduction
+## 📖 简介
 
-**uni-app Skills** is a curated collection of Agent Skills for AI coding agents, part of the [Full Stack Skills](https://github.com/partme-ai/full-stack-skills) ecosystem maintained by [PartMe.AI](https://github.com/partme-ai).
+**uni-app 技能** 是一组 AI 编码智能体技能，属于 [Full Stack Skills](https://github.com/partme-ai/full-stack-skills) 生态，由 [PartMe.AI](https://github.com/partme-ai) 维护。包含 **13 个技能**。
 
-This package includes **13 skills**. Each skill is a self-contained `SKILL.md` file that AI agents load on-demand.
-
-## 📦 Install
+## 📦 安装
 
 ```bash
 npx skills add full-statck-skills/uniapp-skills
 ```
 
-Or install specific skills: `npx skills add full-statck-skills/uniapp-skills --skill <skill-name>`
+## 🎯 技能列表 (13)
 
-## 🎯 Skills (13)
-
-| Skill | Description |
-|-------|-------------|
+| 技能 | 描述 |
+|------|------|
 | `uniapp-ad` | A comprehensive skill for uni-ad monetization in uni-app. Use this skill to integrate ads, configure ad types, handle... |
 | `uniapp-cloud` | A comprehensive skill for uniCloud cloud development in the uni-app ecosystem. Use this skill when you need uniCloud ... |
 | `uniapp-mini` | A comprehensive skill for uni-app mini program development. Use when building uni-app mini programs, configuring mini... |
@@ -48,19 +42,10 @@ Or install specific skills: `npx skills add full-statck-skills/uniapp-skills --s
 | `uniappx-project` | Provides comprehensive uni-app-x component and API integration guidance. Use when the user needs official uni-app-x c... |
 | `uniappx-uview-pro` | A comprehensive skill for integrating and using uView Pro with UniAppX projects. This skill focuses on UniAppX-specif... |
 
-## 🤖 Supported Agents
+## 🤖 支持的智能体
 
-Works with [Claude Code](https://code.claude.com), [Codex](https://developers.openai.com/codex), [Cursor](https://cursor.com), [OpenCode](https://opencode.ai), [Gemini CLI](https://geminicli.com), [GitHub Copilot](https://github.com/features/copilot), [Windsurf](https://codeium.com/windsurf), and [70+ others](https://agentskills.io/clients).
-
-## 🌐 Ecosystem
-
-| Resource | Link |
-|----------|------|
-| **Full Stack Skills** | [github.com/partme-ai/full-stack-skills](https://github.com/partme-ai/full-stack-skills) |
-| **All Skill Groups** | [github.com/full-statck-skills](https://github.com/full-statck-skills) |
-| **Agent Skills Spec** | [agentskills.io](https://agentskills.io) |
-| **Skills CLI** | [github.com/vercel-labs/skills](https://github.com/vercel-labs/skills) |
+适用于 [Claude Code](https://code.claude.com)、[Codex](https://developers.openai.com/codex)、[Cursor](https://cursor.com)、[OpenCode](https://opencode.ai)、[Gemini CLI](https://geminicli.com)、[GitHub Copilot](https://github.com/features/copilot)、[Windsurf](https://codeium.com/windsurf) 及 [70+ 其他](https://agentskills.io/clients)。
 
 ## 📄 License
 
-Apache 2.0 — see [LICENSE](LICENSE).
+Apache 2.0
