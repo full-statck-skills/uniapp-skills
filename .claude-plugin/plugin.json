@@ -1,0 +1,27 @@
+{
+  "name": "uniapp-skills",
+  "version": "1.0.0",
+  "description": "uni-app cross-platform development skills",
+  "author": {
+    "name": "PartMeAI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-statck-skills/uniapp-skills",
+  "repository": "https://github.com/full-statck-skills/uniapp-skills",
+  "source": "./",
+  "skills": [
+    "./skills/uniapp-ad",
+    "./skills/uniapp-cloud",
+    "./skills/uniapp-mini",
+    "./skills/uniapp-native-app",
+    "./skills/uniapp-native-plugin",
+    "./skills/uniapp-plugin",
+    "./skills/uniapp-project-creator",
+    "./skills/uniapp-project",
+    "./skills/uniapp-ucharts",
+    "./skills/uniapp-uview",
+    "./skills/uniappx-project-creator",
+    "./skills/uniappx-project",
+    "./skills/uniappx-uview-pro"
+  ]
+}
